@@ -1,18 +1,3 @@
-/**
- * Starter code for MDS
- *  Long Project 4 : Folder: VXB220005
- *  Below are the team member names and NET ID:
- *  Amulya Atluri / AXA210091
- *  Venkat Biyyapu / VXB220005
- *  Harish Gontu / HXG200007
- *  Sai Nikhil Voruganti / SXV210118
- */
-
-// Change to your net id
-
-// If you want to create additional classes, place them in this file as subclasses of MDS
-
-
 package VXB220005;
 
 import java.math.RoundingMode;
